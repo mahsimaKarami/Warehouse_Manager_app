@@ -1,0 +1,10 @@
+<RCC>
+  <qresource>
+    <file>home.png</file>
+    <file>bin.png</file>
+    <file>signal2.jpg</file>
+    <file>arrow.png</file>
+    <file>return.png</file>
+    <file>signal.jpg</file>
+  </qresource>
+</RCC>
